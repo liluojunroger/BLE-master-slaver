@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\bin\armstlink2.dll" 
+
+"C:\Work\Project\BLE\BlueNRG2_KNX\Project\BLE_MS_Formula\EWARM\BlueNRG-2\Master_Slave\Exe\BLE_MS_Formula_Master_Slave.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\bin\armbat.dll" 
+
+--flash_loader="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\arm\config\flashloader\ST\BlueNRG-2.board" 
+
+
+
+
